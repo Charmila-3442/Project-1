@@ -41,40 +41,35 @@ weather_model_quadratic/
 - Libraries:
     matplotlib
     numpy
-
--Install dependencies:
+Install dependencies:
 -pip install matplotlib numpy
 
 ---
 ## 🚀 Usage
--Version 1 – Hardcoded
+Version 1 – Hardcoded
 -python version1_hardcoded.py
 
--Version 2 – Keyboard Input
+Version 2 – Keyboard Input
 -python version2_keyboard_input.py
 
 
--👉 Enter values for a, b, and c when prompted.
-
--Version 3 – Single File Input
+👉 Enter values for a, b, and c when prompted.
+Version 3 – Single File Input
 -python version3_file_input_single.py
 
-
--👉 Reads coefficients from inputs_single.txt
--Format inside file:
-
+👉 Reads coefficients from inputs_single.txt
+Format inside file:
 -1 2 3
 
--Version 4 – Multiple File Input
+Version 4 – Multiple File Input
 -python version4_file_input_multiple.py
 
-
--👉 Reads multiple coefficient sets from inputs_multiple.txt
+👉 Reads multiple coefficient sets from inputs_multiple.txt
 -Example file contents:
 
--1 2 3
---1 0 5
--2 -3 4
+1 2 3
+-1 0 5
+2 -3 4
 ---
 
 ## 📊 Output
