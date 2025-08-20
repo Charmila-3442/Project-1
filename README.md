@@ -36,16 +36,54 @@ weather_model_quadratic/
 ├── inputs_multiple.txt             # Contains multiple sets of a, b, c values
 └── README.md                       # Project documentation
 ```
+## ⚙️ Requirements
+- Python 3.7+
+- Libraries:
+    matplotlib
+    numpy
+
+-Install dependencies:
+-pip install matplotlib numpy
 
 ---
+## 🚀 Usage
+-Version 1 – Hardcoded
+-python version1_hardcoded.py
 
-##📊 Output
+-Version 2 – Keyboard Input
+-python version2_keyboard_input.py
+
+
+-👉 Enter values for a, b, and c when prompted.
+
+-Version 3 – Single File Input
+-python version3_file_input_single.py
+
+
+-👉 Reads coefficients from inputs_single.txt
+-Format inside file:
+
+-1 2 3
+
+-Version 4 – Multiple File Input
+-python version4_file_input_multiple.py
+
+
+-👉 Reads multiple coefficient sets from inputs_multiple.txt
+-Example file contents:
+
+-1 2 3
+--1 0 5
+-2 -3 4
+---
+
+## 📊 Output
 The program will display line plots:
 - X-axis → Time (0–10)
 - Y-axis → Calculated Temperature
 - Each curve represents one set of (a, b, c) coefficients
 
-##✨ Example:
+## ✨ Example:
 - Version 1 → 1 curve (hardcoded)
 - Version 2 → 1 curve (user input)
 - Version 3 → 1 curve (from file)
