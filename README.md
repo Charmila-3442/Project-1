@@ -35,8 +35,10 @@ weather_model_quadratic/
 ├── inputs_single.txt               # Contains one set of a, b, c values
 ├── inputs_multiple.txt             # Contains multiple sets of a, b, c values
 └── README.md                       # Project documentation
+```
 
 ---
+
 📊 Output
 The program will display line plots:
 X-axis → Time (0–10)
