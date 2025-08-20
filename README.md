@@ -39,8 +39,8 @@ weather_model_quadratic/
 ## ⚙️ Requirements
 - Python 3.7+
 - Libraries:
-    **matplotlib**
-    **numpy**
+    - **matplotlib**
+    - **numpy**
   
 Install dependencies:
 - pip install matplotlib numpy
@@ -53,24 +53,19 @@ Version 1 – Hardcoded
 Version 2 – Keyboard Input
 - python version2_keyboard_input.py
 
-
-👉 Enter values for a, b, and c when prompted.
 Version 3 – Single File Input
--python version3_file_input_single.py
-
-👉 Reads coefficients from inputs_single.txt
-Format inside file:
--1 2 3
+- python version3_file_input_single.py
+- Format inside file:
+   - 1 2 3
 
 Version 4 – Multiple File Input
--python version4_file_input_multiple.py
-
-👉 Reads multiple coefficient sets from inputs_multiple.txt
--Example file contents:
-
+- python version4_file_input_multiple.py
+- Example file contents:
+```text
 1 2 3
 -1 0 5
 2 -3 4
+```
 ---
 
 ## 📊 Output
