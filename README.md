@@ -21,8 +21,6 @@ We’ll write 4 versions of the program:
 3. **Read from file (one set of inputs)**
 4. **Read from file (multiple sets of inputs)**
 
-👉 All versions are implemented in **Python**.
-
 ---
 
 ## 📂 Files
