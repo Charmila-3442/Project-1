@@ -39,9 +39,10 @@ weather_model_quadratic/
 ## ⚙️ Requirements
 - Python 3.7+
 - Libraries:
-    matplotlib
-    numpy
-- Install dependencies:
+    **matplotlib**
+    **numpy**
+  
+Install dependencies:
 - pip install matplotlib numpy
 
 ---
