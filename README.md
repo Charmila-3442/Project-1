@@ -39,14 +39,14 @@ weather_model_quadratic/
 
 ---
 
-📊 Output
+##📊 Output
 The program will display line plots:
-X-axis → Time (0–10)
-Y-axis → Calculated Temperature
-Each curve represents one set of (a, b, c) coefficients
+- X-axis → Time (0–10)
+- Y-axis → Calculated Temperature
+- Each curve represents one set of (a, b, c) coefficients
 
-✨ Example:
-Version 1 → 1 curve (hardcoded)
-Version 2 → 1 curve (user input)
-Version 3 → 1 curve (from file)
-Version 4 → Multiple curves with legends
+##✨ Example:
+- Version 1 → 1 curve (hardcoded)
+- Version 2 → 1 curve (user input)
+- Version 3 → 1 curve (from file)
+- Version 4 → Multiple curves with legends
