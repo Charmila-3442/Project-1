@@ -41,16 +41,16 @@ weather_model_quadratic/
 - Libraries:
     matplotlib
     numpy
-Install dependencies:
--pip install matplotlib numpy
+- Install dependencies:
+- pip install matplotlib numpy
 
 ---
 ## 🚀 Usage
 Version 1 – Hardcoded
--python version1_hardcoded.py
+- python version1_hardcoded.py
 
 Version 2 – Keyboard Input
--python version2_keyboard_input.py
+- python version2_keyboard_input.py
 
 
 👉 Enter values for a, b, and c when prompted.
